@@ -8,7 +8,7 @@ Questo repository contiene il progetto svolto per il corso di **Impianti di Elab
 
 * **Università:** Università degli Studi di Napoli Federico II
 * **Corso:** Impianti di Elaborazione
-* **Professori:** Domenico Cotroneo, Roberto Pietrantuono, Pietro Liguori, Roberta De Luca :contentReference[oaicite:0]{index=0}
+* **Professori:** Domenico Cotroneo, Roberto Pietrantuono, Pietro Liguori, Roberta De Luca
 * **Anno Accademico:** 2025-26
 
 ---
